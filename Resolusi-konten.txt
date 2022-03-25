@@ -1,0 +1,5 @@
+RENCANA KONTEN NGODING
+- Python
+- SQL
+- Git/GitHub
+- Web programming
